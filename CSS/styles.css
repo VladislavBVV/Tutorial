@@ -133,7 +133,7 @@ text-transform: uppercase;
     padding-right: 700px;
 height: 600px;
     text-align: center;
-    background: var(--herobcg);
+    background: rgb(210, 210, 92);
 }
 
 .button {
