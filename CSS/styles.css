@@ -40,7 +40,7 @@ h3 {
     margin: 0 auto;
     padding-left: 15px;
     padding-right: 15px;
-    outline: 2px solid tomato
+    /* outline: 2px solid tomato */
 
 }
 
@@ -104,11 +104,9 @@ color: #000000;
 }
 
 
-
-
 .site-nav .item {
     padding: 0px;
-    outline: 1px solid tomato;
+    /* outline: 1px solid tomato; */
 }
 
 .site-nav .item + .item {
@@ -144,7 +142,7 @@ text-decoration: none;
 }
 
 .contacts .item {
-outline: 1px solid tomato;
+/* outline: 1px solid tomato; */
 }
 
 /* .contactsinfo {
@@ -157,7 +155,8 @@ outline: 1px solid tomato;
 }
 
 .contacts .link {
-    color: #757575;
+    margin-left: 30px;
+    color: #e3e01a;
 }
 .contacts, .link:hover,
 .contacts, .link:focus {
