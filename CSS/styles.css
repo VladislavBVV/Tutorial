@@ -506,8 +506,13 @@ color: #212121;
 
 }
 
+.needs h2{
+   margin-bottom: 10px; 
+}
+
 .needs .item {
     font-weight: 500;
+    margin-bottom: 10px;
 }
 
 .account .item:not(:last-child) {
